@@ -1,0 +1,8 @@
+total 92
+-rw-rw-r-- 1 carlosmcodes carlosmcodes 45678 Mar 18 12:48 CMakeCache.txt
+drwxrwxr-x 5 carlosmcodes carlosmcodes  4096 Mar 19 18:03 CMakeFiles
+-rw-rw-r-- 1 carlosmcodes carlosmcodes  1575 Mar 18 12:48 cmake_install.cmake
+-rwxrwxr-x 1 carlosmcodes carlosmcodes 17976 Mar 19 18:03 csc415_p3
+-rw-rw-r-- 1 carlosmcodes carlosmcodes  6149 Mar 18 12:48 csc415_p3.cbp
+-rw-rw-r-- 1 carlosmcodes carlosmcodes  5229 Mar 18 12:48 Makefile
+-rwx------ 1 carlosmcodes carlosmcodes     0 Mar 19 16:10 t.txt

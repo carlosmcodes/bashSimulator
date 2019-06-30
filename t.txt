@@ -1,0 +1,19 @@
+total 108
+drwxrwxr-x 3 carlosmcodes carlosmcodes  4096 Mar 21 13:02 cmake-build-debug
+-rw-rw-r-- 1 carlosmcodes carlosmcodes   157 Mar 18 12:48 CMakeLists.txt
+-rw-rw-r-- 1 carlosmcodes carlosmcodes  1074 Mar 18 12:48 LICENSE
+-rw-rw-r-- 1 carlosmcodes carlosmcodes    82 Mar 18 12:48 Makefile
+-rwxrwxr-x 1 carlosmcodes carlosmcodes 13824 Mar 21 13:04 myshell
+-rw-rw-r-- 1 carlosmcodes carlosmcodes  7915 Mar 21 13:04 myshell.c
+-rw-rw-r-- 1 carlosmcodes carlosmcodes 64397 Mar 18 12:48 p3.pdf
+-rw-rw-r-- 1 carlosmcodes carlosmcodes   527 Mar 19 19:11 README.md
+-rwx------ 1 carlosmcodes carlosmcodes     0 Mar 21 13:19 t.txt
+cmake-build-debug
+CMakeLists.txt
+LICENSE
+Makefile
+myshell
+myshell.c
+p3.pdf
+README.md
+t.txt

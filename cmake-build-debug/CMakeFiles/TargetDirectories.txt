@@ -1,0 +1,3 @@
+/home/carlosmcodes/415Projects/csc415-p3-carlosmcodes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/carlosmcodes/415Projects/csc415-p3-carlosmcodes/cmake-build-debug/CMakeFiles/csc415_p3.dir
+/home/carlosmcodes/415Projects/csc415-p3-carlosmcodes/cmake-build-debug/CMakeFiles/edit_cache.dir
