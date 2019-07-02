@@ -1,10 +1,4 @@
-# CSC 415 - Project 3 - My Shell
-
-## Student Name: Carlos Lopez
-
-## Student ID: 918559153
-
-## Build Instructions
+M## Build Instructions
 
 Assuming you have cloned the project, the steps needed would be to go to the project directory and type 'make'.
 Once done, build has completed.
